@@ -1,3 +1,3 @@
 # dcoins
-DCOINS Smart Crontact Tokens
+DCOINS Smart Contract
 
