@@ -1,3 +1,5 @@
-# dcoins
-DCOINS Smart Contract
+# Dcoins
+DCOINS Smart Contract Asset
+Dcoins.net-br.net
+
 
