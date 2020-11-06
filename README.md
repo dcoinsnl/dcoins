@@ -1,5 +1,5 @@
 # Dcoins
-DCOINS Smart Asset
+Digital Assets
 <br />
 <hr />
 <b>Dcoins.nl</b>
