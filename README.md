@@ -1,10 +1,10 @@
-# Dcoins
-Digital Assets
+# Bygu
+Digital
 <br />
 <hr />
-<b>Dcoins.nl</b>
+<b>BYGU.net</b>
 <br />
-Max Supply: 1.000.000.000 DCOINS 
+Max Supply: 1.000.000.000 BYGU
 
 
 
